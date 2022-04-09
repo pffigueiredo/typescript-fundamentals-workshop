@@ -1,11 +1,12 @@
 {
   "name": "typescript-fundamentals-workshop",
   "version": "1.0.0",
-  "description": "This repo contains lessons and exercises about some TypeScripts funcamentals",
+  "description": "This repo contains lessons and exercises about some TypeScripts fundamentals",
   "main": "index.js",
   "scripts": {
     "tsc:lessons": "tsc --project ./src/lessons/tsconfig.json",
-    "tsc:exercises": "tsc --project ./src/exercises/tsconfig.json"
+    "tsc:exercises": "tsc --project ./src/exercises/tsconfig.json",
+    "tsc:samples": "tsc --project ./src/samples/tsconfig.json"
   },
   "repository": {
     "type": "git",

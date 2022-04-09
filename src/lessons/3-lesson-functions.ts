@@ -22,5 +22,5 @@ function concatStrings(x: string, y: string): string {
 // *** IMPLICIT TYPING ***
 // Takes a number and returns a number
 function triple(x: number) {
-  return 2 * x;
+  return 3 * x;
 }

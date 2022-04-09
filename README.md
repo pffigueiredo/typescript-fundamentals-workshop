@@ -1,6 +1,6 @@
 # TypeScript Fundamentals Workshop
 
-This workshops is about the basics of TypeScript.
+This workshop is about the basics of TypeScript.
 
 ## Requirements
 To run this locally you will need:
@@ -23,9 +23,14 @@ Compile exercises folder's files to JavaScript
 npm run tsc:exercises
 ```
 
+Compile samples folder's files to JavaScript
+```bash
+npm run tsc:samples
+```
+
 ## Lessons
 
-Each lessons addresses a different topic of a TypeScript fundamental, and although it has some explanations and examples, it might not be enough for you to learn on your own, as this workshop is suppose to accompanied by a instructor. 
+Each lessons addresses a different topic of a TypeScript fundamental, and although it has some explanations and examples, it might not be enough for you to learn on your own, as this workshop is suppose to be accompanied by a instructor. 
 
 ## Exercises
 
