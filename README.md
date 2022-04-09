@@ -3,7 +3,7 @@
 This workshops is about the basics of TypeScript.
 
 ## Requirements
-To run locally you will need:
+To run this locally you will need:
 - Node.js
 - NPM or YARN (or any other package manager)
 
