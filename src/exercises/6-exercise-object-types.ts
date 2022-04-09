@@ -1,19 +1,19 @@
-// You should not need to change any JavaScript code in this file!
+// 1- Change `Doggy` to fit the dog variable
+type Doggy = ??;
 
-// 1- Create a type that fits this `dog` object and assign it
-let dog = {
+type DogOwner = {
+    name: string;
+    age: number;
+};
+
+let dog: Doggy = {
   color: 'brown',
   age: 5,
   name: 'Buddy',
 };
 
-type DogOwner = {
-  name: string;
-  age: number;
-};
-
-// 2- Create a type that fits to the `dog` parameter and assign it
-function getDogOwner(dog): DogOwner {
+// 2- Change `doggy` to have this function properly typed ( you might have to fix `dog` variable)
+function getDogOwner(dog: Doggy): DogOwner {
   return dog.owner;
 }
 
