@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 type MyPerson = { name: string; age: number };
 type MyDog = { name: string; age: number; color: string };
 

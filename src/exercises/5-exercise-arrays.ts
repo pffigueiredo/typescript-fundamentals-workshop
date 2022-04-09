@@ -1,3 +1,5 @@
+/* eslint-disable */ 
+
 // 1- add the correct typing to `returnArrayOfNumbers`
 type ArrayOfNumbers = ??;
 function returnArrayOfNumbers(array) {

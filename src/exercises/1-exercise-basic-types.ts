@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // We have defined 5 different variables and most of them seem to have some sort
 // of type error.
 

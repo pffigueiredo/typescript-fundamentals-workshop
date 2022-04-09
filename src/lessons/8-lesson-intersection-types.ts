@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // Intersection Types - Intersection types, like union types,
 // combine existing types to form a new type.
 

@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // TypeScript can infer types most of the times, without the need for us to
 // provide any further information.
 

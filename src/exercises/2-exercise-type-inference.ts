@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // We have defined a bunch of variables whose types are inferred by typescript.
 // Can you guess which is the type of each of these variables?
 

@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // 1- Write a function that makes words plural by adding "s". Remember that '+' joins two strings.
 function pluralize() {}
 

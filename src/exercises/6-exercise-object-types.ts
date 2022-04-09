@@ -1,3 +1,5 @@
+/* eslint-disable */ 
+
 // 1- Change `Doggy` to fit the dog variable
 type Doggy = ??;
 

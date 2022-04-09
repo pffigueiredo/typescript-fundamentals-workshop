@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // We can declare our own names for types using the type keyword.
 // It looks similar to declaring a variable with let.
 // By convention, user-defined type names are UpperCamelCased.

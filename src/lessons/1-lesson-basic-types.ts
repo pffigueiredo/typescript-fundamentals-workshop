@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // TypeScript's Basic Types
 
 // boolean | number | string | null | undefined

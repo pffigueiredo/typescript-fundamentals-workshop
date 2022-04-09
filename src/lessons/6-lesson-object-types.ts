@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // In JavaScript, myObject.someProperty will return undefined if someProperty doesn't exist.
 // This has caused an uncountable number of errors in production applications.
 // The most common symptom is the "undefined is not a function" error when we do myObject.someProperty().

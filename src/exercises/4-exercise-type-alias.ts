@@ -1,3 +1,5 @@
+/* eslint-disable */ 
+
 // 1- Create a type alias with a `string` type and use it for the function `arg`
 function fn(arg) {
   return arg.length;

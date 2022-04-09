@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // Union Types - As the name suggests, union types are types that we can combine to form a new type.
 // A union type is constructed from existing types using the pipe (|) character:
 

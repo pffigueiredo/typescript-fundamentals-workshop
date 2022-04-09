@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // Defining functions in typescript
 // function [functionName]([parameterName]: [parameterType]): [returnType] {...}
 

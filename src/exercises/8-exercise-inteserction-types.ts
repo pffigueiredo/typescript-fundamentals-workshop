@@ -1,3 +1,5 @@
+/* eslint-disable */ 
+
 type Pet = { name: string; age: number };
 
 //1- Assign a type to `Cat` by using a type intersection

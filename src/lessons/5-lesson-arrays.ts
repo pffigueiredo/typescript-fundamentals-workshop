@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // TypeScript Arrays - there are two ways to declare arrays in TypeScript:
 // string[] or Array<string>
 
