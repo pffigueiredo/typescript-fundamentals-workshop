@@ -12,7 +12,7 @@ type LonelyDog = { name: string; age: number };
 
 // All the properties are "merged" into and create a new type
 type DogWithOwner = LonelyPerson & { owner: LonelyDog };
-const dogWItOwner: DogWithOwner = {
+let dogWItOwner: DogWithOwner = {
   name: 'Buddy',
   age: 5,
   owner: {
@@ -24,7 +24,7 @@ const dogWItOwner: DogWithOwner = {
 type NamelessDog = { name?: string | undefined; age: number; toy: string };
 // "Intersects" all the properties of each type to create a new one
 type MyNewDog = LonelyPerson & NamelessDog;
-const myDog: MyNewDog = {
+let myDog: MyNewDog = {
   name: 'Buddy',
   age: 5,
   toy: 'ball',

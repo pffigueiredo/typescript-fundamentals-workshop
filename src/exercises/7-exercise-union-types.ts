@@ -1,5 +1,5 @@
-type Person = { name: string; age: number };
-type Dog = { name: string; age: number; color: string };
+type MyPerson = { name: string; age: number };
+type MyDog = { name: string; age: number; color: string };
 
 // Assign the arguments types and the return type of the function
 function getOneOf(person, dog) {

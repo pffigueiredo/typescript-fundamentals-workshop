@@ -3,7 +3,7 @@
 // boolean | number | string | null | undefined
 
 // Creating a variable of type `number`
-const basicsA: number = 1;
+let basicsNumber: number = 1;
 
 // Creating a variable of type `string
-const basicsB: string = 'Hello';
+let basicsString: string = 'Hello';

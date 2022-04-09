@@ -8,7 +8,7 @@ function returnArrayOfNumbers(array) {
 // Define the return type of the function
 // It should be an array of arrays of string
 function returnsAnArrayOfArraysOfStrings(): /* Return type here */ {
-    const array = [];
+    let array = [];
     array.push(['hello']);
     array.push(['world']);
     return array;
