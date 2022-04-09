@@ -1,0 +1,23 @@
+{
+  "name": "typescript-fundamentals-workshop",
+  "version": "1.0.0",
+  "description": "This repo contains lessons and exercises about some TypeScripts funcamentals",
+  "main": "index.js",
+  "scripts": {
+    "tsc:lessons": "tsc --project ./src/lessons/tsconfig.json",
+    "tsc:exercises": "tsc --project ./src/exercises/tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pffigueiredo/typescript-fundamentals-workshop.git"
+  },
+  "author": "Pedro Figueiredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pffigueiredo/typescript-fundamentals-workshop/issues"
+  },
+  "homepage": "https://github.com/pffigueiredo/typescript-fundamentals-workshop#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
