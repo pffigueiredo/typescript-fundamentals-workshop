@@ -14,7 +14,7 @@ type LonelyDog = { name: string; age: number };
 
 // All the properties are "merged" into and create a new type
 type DogWithOwner = LonelyPerson & { owner: LonelyDog };
-let dogWItOwner: DogWithOwner = {
+let dogWithOwner: DogWithOwner = {
   name: 'Buddy',
   age: 5,
   owner: {
